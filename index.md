@@ -1,10 +1,3 @@
-
----
-title: My Homepage
-layout: default
----
-
-
 # Books I Read Recently
 
 ## Fiction
